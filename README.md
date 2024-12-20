@@ -2,6 +2,9 @@
 
 Um programa simples e eficiente para conversão de moedas, permitindo interações intuitivas e oferecendo taxas de câmbio atualizadas em tempo real. 🚀
 
+
+![Badge-Conversor](https://github.com/user-attachments/assets/e566a64b-8466-4656-8ad2-76cdd85175ed)
+
 ---
 
 ## 📝 Funcionalidades
